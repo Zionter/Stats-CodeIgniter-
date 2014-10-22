@@ -1,5 +1,7 @@
 
-Code by Kudinov Ruslan
+Code by Kudinov Ruslan & Ihor Karpov
 http://github.com/Zionter
 
-ziont.2009@gmail.com
+
+
+/* All rights belong to IKT of Grinchenko University */
